@@ -65,8 +65,8 @@ const DeliveryScreen = () => {
         identifier="origin"
         pinColor="#00CCBB"
         />
-        </MapView> */}
-         
+        </MapView>
+          */}
     </View>
   )
 }

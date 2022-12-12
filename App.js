@@ -21,6 +21,7 @@ export default function App() {
     <TailwindProvider>
     <Stack.Navigator>
       {/*screens*/}
+      
       <Stack.Screen name='Home' component={HomeScreen} />
       <Stack.Screen name='Restaurant' component={RestaurantScreen} />
       <Stack.Screen name='Basket' component={BasketScreen}

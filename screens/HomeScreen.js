@@ -52,8 +52,8 @@ const HomeScreen = () => {
       className='h-7 w-7 bg-gray-300 p-4 rounded-full' 
       />
       <View className='flex-1'>
-        <Text className='font-bold text-gray-400 text-xs'>Deliver now!</Text>
-        <Text classNmae='font-bold text-xl'>Current location
+        <Text className='font-bold text-gray-400 text-xs'>Envios ahora!</Text>
+        <Text classNmae='font-bold text-xl'>Ubicacion Actual
         <ChevronDownIcon size={20} color='#00CCBB' />
         </Text>
       </View>
@@ -66,7 +66,7 @@ const HomeScreen = () => {
         <View className='flex-row flex-1 space-x-2 bg-gray-200 p-3'>
       <MagnifyingGlassIcon color='gray' size={20} />
       <TextInput 
-      placeholder='Restaurants and cuisines'
+      placeholder='Restaurantes y cocinas'
       keyboardType='default'
       />
         </View>

@@ -29,7 +29,7 @@ const PreparingOrderScreen = () => {
           >
             Waiting for the moment to accept your order!!
         </Animatable.Text>
-        <Progress.Circle size={60} indeterminate={true} color="white" />
+        {/* <Progress.Circle size={60} indeterminate={true} color="white" /> */}
         </SafeAreaView>
     );
 }
